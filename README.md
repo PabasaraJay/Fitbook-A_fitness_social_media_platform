@@ -27,7 +27,7 @@ services such as social media, enhancing convenience and accessibility.</br>
 **You’ll need to have Node installed on your local development machine**. You can then clone this repo
 
 ```sh
-git clone --depth=1 https://github.com/saranshkataria/frontend-starter-toolkit.git <YOUR_PROJECT_NAME>
+git clone --depth=1 https://github.com/PabasaraJay/Fitbook-A_fitness_social_media_platform.git
 ```
 
 You can then start building your own project based on the project that gets cloned. You can also remove the remote to the repo to avoid accidentally pushing to it.
