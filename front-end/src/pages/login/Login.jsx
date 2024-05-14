@@ -29,7 +29,7 @@ const Login = () => {
           <h1>Login To Our site</h1>
           <p>
             Welcome to our fitness community! Join us and start your fitness
-            journey from today.
+            journey today!!!
           </p>
           <span>Don't you have an account?</span>
           <Link to="/">
